@@ -5,7 +5,7 @@ Tiny CMake template repository used for various C/CPP projects
 
 ### Motivation
 
-The ability to create copy-pasted project for course projects and personal purposes.
+The ability to create copy-pasted projects for the Advanced-CPP course and personal pet-repos.
 
 ### Building
 
